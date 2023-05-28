@@ -1,0 +1,51 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {section}{\numberline {2}Описание реализации проекта}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Уравнение}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Метод деления отрезка пополам}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Метод простой итерации}{5}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Метод Ньютона}{6}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Меню и ввод результатов}{7}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Прочие детали реализации}{7}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}Результаты методов для решения уравнений}{8}{subsubsection.2.1.6}%
+\contentsline {paragraph}{Описание функции:}{8}{section*.2}%
+\contentsline {paragraph}{Графическое решение уравнения:}{8}{section*.3}%
+\contentsline {paragraph}{Результаты методов:}{9}{section*.5}%
+\contentsline {paragraph}{Таблица с результатами:}{11}{section*.7}%
+\contentsline {subsection}{\numberline {2.2}Система линейных уравнений}{12}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Методы решения системы линейных уравнений}{12}{subsubsection.2.2.1}%
+\contentsline {paragraph}{Метод Гаусса:}{12}{section*.9}%
+\contentsline {paragraph}{Метод Зейделя:}{13}{section*.10}%
+\contentsline {subsubsection}{\numberline {2.2.2}Прочие детали реализации}{14}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Результаты методов для систем линейных уравнений}{15}{subsubsection.2.2.3}%
+\contentsline {paragraph}{Описание системы линейных уравнений:}{15}{section*.12}%
+\contentsline {paragraph}{Результаты методов:}{15}{section*.13}%
+\contentsline {paragraph}{Таблица с результатами:}{15}{section*.15}%
+\contentsline {subsection}{\numberline {2.3}Вычисление интеграла}{15}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Метод трапеций}{16}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Метод Симпсона}{16}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Вычисление погрешности с использованием правила Рунге}{17}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Результаты методов для вычисления интегралов}{18}{subsubsection.2.3.4}%
+\contentsline {paragraph}{Результаты методов:}{18}{section*.17}%
+\contentsline {paragraph}{Таблица с результатами:}{18}{section*.19}%
+\contentsline {subsection}{\numberline {2.4}Вычисление значений функции с использованием интерполяционных многочленов}{18}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Инициализация массивов данных}{18}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Интерполяционные многочлены}{19}{subsubsection.2.4.2}%
+\contentsline {paragraph}{Метод \texttt {interpolateAndPrint}}{19}{section*.23}%
+\contentsline {paragraph}{Метод \texttt {interpolate}}{19}{section*.24}%
+\contentsline {paragraph}{Метод \texttt {getIndices}}{19}{section*.25}%
+\contentsline {paragraph}{Метод \texttt {findClosestIndex}}{20}{section*.26}%
+\contentsline {paragraph}{Метод \texttt {getSubset}}{20}{section*.27}%
+\contentsline {paragraph}{Метод \texttt {computeInterpolation}}{21}{section*.28}%
+\contentsline {subsubsection}{\numberline {2.4.3}Вычисление погрешности}{21}{subsubsection.2.4.3}%
+\contentsline {paragraph}{Метод \texttt {computeErrors}}{21}{section*.29}%
+\contentsline {paragraph}{Метод \texttt {computeTrueValue}}{21}{section*.30}%
+\contentsline {paragraph}{Метод \texttt {findNearestIndex}}{22}{section*.31}%
+\contentsline {subsubsection}{\numberline {2.4.4}Результаты работы методов с интерполяционными многочленами}{22}{subsubsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.5}Решение задачи Коши}{26}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Метод Эйлера}{26}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Модифицированный метод Эйлера}{27}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Метод Рунге-Кутты 4-го порядка}{28}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Прочие детали реализации}{29}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Результаты методов для задачи Коши}{30}{subsubsection.2.5.5}%
+\contentsline {section}{\numberline {3}Вывод}{33}{section.3}%
