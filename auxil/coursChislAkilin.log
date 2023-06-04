@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.28)  5 JUN 2023 02:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -808,7 +808,7 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count327
 \l__pdf_internal_box=\box63
 )
-(D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.aux
+(D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
 0.
 
@@ -933,8 +933,8 @@ Package color Info: Driver file: pdftex.def on input line 149.
 (D:\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 21.
 
-(D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.out)
-(D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.out)
+(D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.out)
+(D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.out)
 \@outlinefile=\write4
 \openout4 = `coursChislAkilin.out'.
 
@@ -952,10 +952,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--56
 
 {C:/Users/osada/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./image/madi
 _logo.png>]
-(D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc
+(D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:2: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:2: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -967,8 +967,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:3: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:3: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -980,8 +980,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:4: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:4: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -993,8 +993,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:5: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:5: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1006,8 +1006,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:6: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:6: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1019,8 +1019,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:7: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:7: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1032,8 +1032,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:8: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:8: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1045,8 +1045,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:9: LaTeX Er
-ror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:9: La
+TeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1058,8 +1058,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:10: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:10: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1071,8 +1071,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:15: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:15: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1084,8 +1084,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:16: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:16: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1097,8 +1097,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:19: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:19: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1110,8 +1110,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:20: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:20: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1123,8 +1123,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:24: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:24: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1136,8 +1136,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:25: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:25: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1149,8 +1149,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:26: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:26: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1162,8 +1162,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:27: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:27: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1175,8 +1175,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:28: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:28: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1188,8 +1188,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:31: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:31: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1201,8 +1201,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:32: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:32: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1214,8 +1214,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:33: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:33: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1227,8 +1227,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:40: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:40: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1240,8 +1240,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:44: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:44: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1253,8 +1253,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:45: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:45: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1266,8 +1266,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:46: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:46: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1279,8 +1279,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:47: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:47: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1292,8 +1292,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:48: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:48: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1305,8 +1305,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:49: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:49: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1318,8 +1318,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:50: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:50: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1331,8 +1331,8 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.toc:51: LaTeX E
-rror: Undefined color `linkcolor'.
+D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.toc:51: L
+aTeX Error: Undefined color `linkcolor'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1488,11 +1488,11 @@ Overfull \hbox (2.59732pt too wide) in paragraph at lines 242--243
  []
 
 [8]
-<image/graph_equation.png, id=211, 1139.25626pt x 721.69624pt>
+<image/graph_equation.png, id=211, 371.88937pt x 267.24844pt>
 File: image/graph_equation.png Graphic file (type png)
 <use image/graph_equation.png>
 Package pdftex.def Info: image/graph_equation.png  used on input line 248.
-(pdftex.def)             Requested size: 258.00539pt x 163.43181pt.
+(pdftex.def)             Requested size: 258.00539pt x 185.41293pt.
 
 Overfull \hbox (2.99374pt too wide) in paragraph at lines 254--255
  []\T2A/cmr/bx/n/12 –езультаты ме-то-дов:[] \T2A/cmr/m/n/12 “е-перь рас-смот-ри
@@ -1551,17 +1551,17 @@ n, prevSolution); // »спользуем метод calculateNormDifference дл€ расчета разно
  []
 
 [13] [14]
-<image/system_input1.png, id=252, 348.30125pt x 522.95375pt>
+<image/system_input1.png, id=251, 348.30125pt x 522.95375pt>
 File: image/system_input1.png Graphic file (type png)
 <use image/system_input1.png>
 Package pdftex.def Info: image/system_input1.png  used on input line 409.
 (pdftex.def)             Requested size: 171.99922pt x 258.24448pt.
-<image/system_input2.png, id=253, 330.23375pt x 598.235pt>
+<image/system_input2.png, id=252, 330.23375pt x 598.235pt>
 File: image/system_input2.png Graphic file (type png)
 <use image/system_input2.png>
 Package pdftex.def Info: image/system_input2.png  used on input line 411.
 (pdftex.def)             Requested size: 171.99922pt x 311.59517pt.
-<image/system_input3.png, id=254, 606.265pt x 366.36874pt>
+<image/system_input3.png, id=253, 606.265pt x 366.36874pt>
 File: image/system_input3.png Graphic file (type png)
 <use image/system_input3.png>
 Package pdftex.def Info: image/system_input3.png  used on input line 413.
@@ -1572,12 +1572,12 @@ Overfull \hbox (4.52386pt too wide) in paragraph at lines 435--436
 ст-ны-ми: $\OML/cmm/m/it/12 x[]; x[]; x[]; x[]; x[]$\T2A/cmr/m/n/12 .
  []
 
-<image/gauss_equation.png, id=255, 286.06876pt x 365.365pt>
+<image/gauss_equation.png, id=254, 286.06876pt x 365.365pt>
 File: image/gauss_equation.png Graphic file (type png)
 <use image/gauss_equation.png>
 Package pdftex.def Info: image/gauss_equation.png  used on input line 444.
 (pdftex.def)             Requested size: 171.99922pt x 219.67784pt.
-<image/zeidel_equation.png, id=256, 292.09125pt x 386.44376pt>
+<image/zeidel_equation.png, id=255, 292.09125pt x 386.44376pt>
 File: image/zeidel_equation.png Graphic file (type png)
 <use image/zeidel_equation.png>
 Package pdftex.def Info: image/zeidel_equation.png  used on input line 449.
@@ -1676,12 +1676,12 @@ ring, limits, 2 * n);[]
  []
 
 [17]
-<image/trapezoid_rule.png, id=274, 424.58624pt x 198.7425pt>
+<image/trapezoid_rule.png, id=273, 424.58624pt x 198.7425pt>
 File: image/trapezoid_rule.png Graphic file (type png)
 <use image/trapezoid_rule.png>
 Package pdftex.def Info: image/trapezoid_rule.png  used on input line 568.
 (pdftex.def)             Requested size: 171.99922pt x 80.51149pt.
-<image/simpson_rule.png, id=275, 428.60126pt x 192.72pt>
+<image/simpson_rule.png, id=274, 428.60126pt x 192.72pt>
 File: image/simpson_rule.png Graphic file (type png)
 <use image/simpson_rule.png>
 Package pdftex.def Info: image/simpson_rule.png  used on input line 573.
@@ -1692,16 +1692,14 @@ Overfull \hbox (38.05121pt too wide) in paragraph at lines 617--618
 llArrayY и fillArrayYFromFile
  []
 
-<image/initX.png, id=284, 778.91pt x 162.6075pt>
-File: image/initX.png Graphic file (type png)
-<use image/initX.png>
-Package pdftex.def Info: image/initX.png  used on input line 621.
-(pdftex.def)             Requested size: 171.99922pt x 35.90526pt.
-<image/initY.png, id=285, 764.8575pt x 158.5925pt>
-File: image/initY.png Graphic file (type png)
-<use image/initY.png>
-Package pdftex.def Info: image/initY.png  used on input line 627.
-(pdftex.def)             Requested size: 171.99922pt x 35.6624pt.
+<image/initXandY.png, id=283, 767.11594pt x 274.02374pt>
+File: image/initXandY.png Graphic file (type png)
+<use image/initXandY.png>
+Package pdftex.def Info: image/initXandY.png  used on input line 623.
+(pdftex.def)             Requested size: 344.005pt x 122.88306pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Overfull \hbox (33.00731pt too wide) in paragraph at lines 643--643
 []\T2A/cmtt/m/n/12 public static void interpolateAndPrint(double x0, double[] x
@@ -1734,15 +1732,15 @@ Overfull \hbox (26.83382pt too wide) in paragraph at lines 748--748
 
 [21] [22] [23 <./image/system_input1.png> <./image/system_input2.png> <./image/
 system_input3.png>] [24 <./image/gauss_equation.png> <./image/zeidel_equation.p
-ng> <./image/trapezoid_rule.png> <./image/simpson_rule.png> <./image/initX.png>
- <./image/initY.png>]
-<image/values_interpolate_plot.png, id=335, 335.2525pt x 275.0275pt>
+ng> <./image/trapezoid_rule.png> <./image/simpson_rule.png>] [25 <./image/initX
+andY.png>]
+<image/values_interpolate_plot.png, id=334, 335.2525pt x 275.0275pt>
 File: image/values_interpolate_plot.png Graphic file (type png)
 <use image/values_interpolate_plot.png>
 Package pdftex.def Info: image/values_interpolate_plot.png  used on input line 
 778.
 (pdftex.def)             Requested size: 430.00462pt x 352.76pt.
- [25 <./image/values_interpolate_plot.png>]
+ [26 <./image/values_interpolate_plot.png>]
 Overfull \hbox (403.41685pt too wide) in paragraph at lines 838--838
 []    \T2A/cmtt/m/n/12 public static Map<String, List<Double>> euler(String fun
 ctionString, double[] limits, double h, double y0) throws ScriptException {[] 
@@ -1760,7 +1758,7 @@ Overfull \hbox (39.1808pt too wide) in paragraph at lines 838--838
 String, x0, y0);[] 
  []
 
-[26
+[27
 
 
 ]
@@ -1782,7 +1780,7 @@ Overfull \hbox (82.39525pt too wide) in paragraph at lines 875--875
 nString, xHalf, yHalf);[] 
  []
 
-[27]
+[28]
 Overfull \hbox (440.45781pt too wide) in paragraph at lines 912--912
 []    \T2A/cmtt/m/n/12 public static Map<String, List<Double>> rungeKutta4(Stri
 ng functionString, double[] limits, double h, double y0) throws ScriptException
@@ -1819,7 +1817,7 @@ Overfull \hbox (2.13985pt too wide) in paragraph at lines 912--912
  k3 + k4);[] 
  []
 
-[28]
+[29]
 Overfull \hbox (316.98796pt too wide) in paragraph at lines 956--956
 []    \T2A/cmtt/m/n/12 public static double evaluateFunctionTwoVariables(String
  functionString, double x, double y) throws ScriptException {[] 
@@ -1855,7 +1853,7 @@ Overfull \hbox (14.48683pt too wide) in paragraph at lines 956--956
 ow(y, $1)");[] 
  []
 
-[29]
+[30]
 Overfull \hbox (125.6097pt too wide) in paragraph at lines 956--956
 []                    \T2A/cmtt/m/n/12 throw new IllegalArgumentException("Func
 tion result is not a number");[] 
@@ -1879,18 +1877,18 @@ Overfull \hbox (3.82674pt too wide) in paragraph at lines 980--981
 о-да Ёй-ле-ра и ме-то-да –унге-
  []
 
-[30]
-<image/menu_Koshi.png, id=366, 401.5pt x 218.8175pt>
+[31]
+<image/menu_Koshi.png, id=365, 401.5pt x 218.8175pt>
 File: image/menu_Koshi.png Graphic file (type png)
 <use image/menu_Koshi.png>
 Package pdftex.def Info: image/menu_Koshi.png  used on input line 987.
 (pdftex.def)             Requested size: 171.99922pt x 93.74243pt.
-<image/euler_method.png, id=367, 459.7175pt x 447.6725pt>
+<image/euler_method.png, id=366, 459.7175pt x 447.6725pt>
 File: image/euler_method.png Graphic file (type png)
 <use image/euler_method.png>
 Package pdftex.def Info: image/euler_method.png  used on input line 991.
 (pdftex.def)             Requested size: 171.99922pt x 167.49423pt.
-<image/modified_euler_method.png, id=368, 511.9125pt x 447.6725pt>
+<image/modified_euler_method.png, id=367, 511.9125pt x 447.6725pt>
 File: image/modified_euler_method.png Graphic file (type png)
 <use image/modified_euler_method.png>
 Package pdftex.def Info: image/modified_euler_method.png  used on input line 99
@@ -1901,13 +1899,13 @@ Underfull \hbox (badness 1082) in paragraph at lines 997--997
 []\T2A/cmr/m/n/10 (c) |–е-зуль-тат ра-бо-ты мо-ди-фи-ци-ро-
  []
 
-<image/runge_kutta_method.png, id=369, 485.815pt x 443.6575pt>
+<image/runge_kutta_method.png, id=368, 485.815pt x 443.6575pt>
 File: image/runge_kutta_method.png Graphic file (type png)
 <use image/runge_kutta_method.png>
 Package pdftex.def Info: image/runge_kutta_method.png  used on input line 1001.
 
 (pdftex.def)             Requested size: 171.99922pt x 157.06963pt.
-<image/graph_koshi.png, id=370, 1021.8175pt x 769.87625pt>
+<image/graph_koshi.png, id=369, 1021.8175pt x 769.87625pt>
 File: image/graph_koshi.png Graphic file (type png)
 <use image/graph_koshi.png>
 Package pdftex.def Info: image/graph_koshi.png  used on input line 1011.
@@ -1915,25 +1913,29 @@ Package pdftex.def Info: image/graph_koshi.png  used on input line 1011.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31
+[32
 
  <./image/menu_Koshi.png> <./image/euler_method.png> <./image/modified_euler_me
-thod.png> <./image/runge_kutta_method.png>] [32 <./image/graph_koshi.png>]
+thod.png> <./image/runge_kutta_method.png>] [33 <./image/graph_koshi.png>]
 Overfull \hbox (52.31906pt too wide) in paragraph at lines 1023--1054
  [][] 
  []
 
-[33
+[34
 
-] [34] (D:/ProjectProg\Java\VUZ\coursChislAkilin\auxil\coursChislAkilin.aux)
+] [35]
+(D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\auxil\coursChislAkilin.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `coursChislAkilin.out' has not changed.
 (rerunfilecheck)             Checksum: 4071608A000ECB370E6ABDEE7BEBCE5B;8628.
  ) 
 Here is how much of TeX's memory you used:
- 18534 strings out of 476411
- 284731 string characters out of 5805549
+ 18523 strings out of 476411
+ 284640 string characters out of 5805549
  1869845 words of memory out of 5000000
- 38466 multiletter control sequences out of 15000+600000
+ 38456 multiletter control sequences out of 15000+600000
  527481 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,1430b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1951,10 +1953,10 @@ onts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><D:/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on D:/ProjectProg\Java\VUZ\coursChislAkilin\out\coursChislAkilin
-.pdf (35 pages, 812504 bytes).
+Output written on D:/ProjectProg\Java\VUZ\latex\coursChislAkilin\out\coursChisl
+Akilin.pdf (36 pages, 833233 bytes).
 PDF statistics:
- 920 PDF objects out of 1000 (max. 8388607)
+ 919 PDF objects out of 1000 (max. 8388607)
  106 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
 

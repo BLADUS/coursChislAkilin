@@ -31,21 +31,21 @@
 \contentsline {subsection}{\numberline {2.4}Вычисление значений функции с использованием интерполяционных многочленов}{18}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Инициализация массивов данных}{18}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Интерполяционные многочлены}{19}{subsubsection.2.4.2}%
-\contentsline {paragraph}{Метод \texttt {interpolateAndPrint}}{19}{section*.23}%
-\contentsline {paragraph}{Метод \texttt {interpolate}}{19}{section*.24}%
-\contentsline {paragraph}{Метод \texttt {getIndices}}{19}{section*.25}%
-\contentsline {paragraph}{Метод \texttt {findClosestIndex}}{20}{section*.26}%
-\contentsline {paragraph}{Метод \texttt {getSubset}}{20}{section*.27}%
-\contentsline {paragraph}{Метод \texttt {computeInterpolation}}{21}{section*.28}%
+\contentsline {paragraph}{Метод \texttt {interpolateAndPrint}}{19}{section*.22}%
+\contentsline {paragraph}{Метод \texttt {interpolate}}{19}{section*.23}%
+\contentsline {paragraph}{Метод \texttt {getIndices}}{19}{section*.24}%
+\contentsline {paragraph}{Метод \texttt {findClosestIndex}}{20}{section*.25}%
+\contentsline {paragraph}{Метод \texttt {getSubset}}{20}{section*.26}%
+\contentsline {paragraph}{Метод \texttt {computeInterpolation}}{21}{section*.27}%
 \contentsline {subsubsection}{\numberline {2.4.3}Вычисление погрешности}{21}{subsubsection.2.4.3}%
-\contentsline {paragraph}{Метод \texttt {computeErrors}}{21}{section*.29}%
-\contentsline {paragraph}{Метод \texttt {computeTrueValue}}{21}{section*.30}%
-\contentsline {paragraph}{Метод \texttt {findNearestIndex}}{22}{section*.31}%
+\contentsline {paragraph}{Метод \texttt {computeErrors}}{21}{section*.28}%
+\contentsline {paragraph}{Метод \texttt {computeTrueValue}}{21}{section*.29}%
+\contentsline {paragraph}{Метод \texttt {findNearestIndex}}{22}{section*.30}%
 \contentsline {subsubsection}{\numberline {2.4.4}Результаты работы методов с интерполяционными многочленами}{22}{subsubsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.5}Решение задачи Коши}{26}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Метод Эйлера}{26}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Модифицированный метод Эйлера}{27}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Метод Рунге-Кутты 4-го порядка}{28}{subsubsection.2.5.3}%
-\contentsline {subsubsection}{\numberline {2.5.4}Прочие детали реализации}{29}{subsubsection.2.5.4}%
-\contentsline {subsubsection}{\numberline {2.5.5}Результаты методов для задачи Коши}{30}{subsubsection.2.5.5}%
-\contentsline {section}{\numberline {3}Вывод}{33}{section.3}%
+\contentsline {subsection}{\numberline {2.5}Решение задачи Коши}{27}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Метод Эйлера}{27}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Модифицированный метод Эйлера}{28}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Метод Рунге-Кутты 4-го порядка}{29}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Прочие детали реализации}{30}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Результаты методов для задачи Коши}{31}{subsubsection.2.5.5}%
+\contentsline {section}{\numberline {3}Вывод}{34}{section.3}%

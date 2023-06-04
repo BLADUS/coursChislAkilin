@@ -616,16 +616,16 @@ public static double estimateErrorByRungeRuleTrapezoid(String functionString, do
 
     Аналогично, в классе InitArrayY я реализовал методы fillArrayY и fillArrayYFromFile для инициализации массива y. Эти методы также считывают значения из стандартного ввода или из файла.
 
-    \begin{figure}[htbp]
-        \centering
-        \includegraphics[width=0.4\textwidth]{image/initX}
-        \caption{Заполнение массива значений x}
-    \end{figure}
+    \begin{figure}[h]
 
-    \begin{figure}[htbp]
         \centering
-        \includegraphics[width=0.4\textwidth]{image/initY}
-        \caption{Заполнение массива значений y}
+
+        \includegraphics[width=0.8\linewidth]{image/initXandY}
+
+        \caption{Заполнение массивовов x и y}
+
+        \label{fig:mpr}
+
     \end{figure}
 
     \subsubsection{Интерполяционные многочлены}
@@ -1061,11 +1061,11 @@ public static int findNearestIndex(double x0, double[] x) {
             \hline
             \textbf{Метод}                 & \textbf{Погрешность} \\
             \hline
-            Метод Эйлера                   & 0.698                \\
+            Метод Эйлера                   & 0.025267741432554836              \\
             \hline
-            Улучшенный метод Эйлера        & 0.472                \\
+            Улучшенный метод Эйлера        & 0.6945952787228968          \\
             \hline
-            Метод Рунге-Кутты 4-го порядка & 0.458                \\
+            Метод Рунге-Кутты 4-го порядка & 6.065186663128941E-6               \\
             \hline
         \end{tabular}
     \end{table}
